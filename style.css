@@ -1,0 +1,23 @@
+.contenedor_principal{
+    background-color: honeydew;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.site-logo{
+    height: 90px;
+    width: 90px;
+    margin-right: 20px;
+}
+.site-logo-humedal{
+    height: 90px;
+    width: 90px;
+    margin-left: 900%;
+}
+.Iframe{
+    width: 100%;
+    height: 100vh;
+    margin-top: 3vh;
+    z-index: 2;
+}
